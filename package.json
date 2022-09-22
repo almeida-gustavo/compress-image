@@ -1,0 +1,23 @@
+{
+  "name": "sharp-performance-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "^16"
+  },
+  "scripts": {
+    "dev": "npx nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "melogustavo",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.10.1",
+    "sharp": "^0.31.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
